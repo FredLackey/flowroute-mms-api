@@ -1,0 +1,34 @@
+{
+  "name": "flowroute-mms-api",
+  "version": "0.0.1",
+  "description": "Simple API for communicating with the Flowroute MMS service.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FredLackey/flowroute-mms-api.git"
+  },
+  "keywords": [
+    "flowroute",
+    "sms",
+    "mms",
+    "messaging",
+    "api"
+  ],
+  "author": {
+    "name": "Fred Lackey",
+    "email": "fred.lackey@gmail.com",
+    "url": "http://www.fredlackey.com"
+  },
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/FredLackey/flowroute-mms-api/issues"
+  },
+  "homepage": "https://github.com/FredLackey/flowroute-mms-api#readme",
+  "dependencies": {
+    "cleaner-node": "^0.1.0",
+    "request": "^2.88.0"
+  }
+}
